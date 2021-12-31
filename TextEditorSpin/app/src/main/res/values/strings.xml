@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TextEditorSpin</string>
+    <string-array name="color">
+        <item>Choose Color</item>
+        <item>RED</item>
+        <item>YELLOW</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+    </string-array>
+    <string-array name="size">
+        <item>Choose Size</item>
+        <item>25</item>
+        <item>35</item>
+        <item>45</item>
+        <item>55</item>
+    </string-array>
+    <string-array name="fontstyle">
+        <item>Choose Style</item>
+        <item>NORMAL</item>
+        <item>BOLD</item>
+        <item>ITALIC</item>
+    </string-array>
+</resources>
